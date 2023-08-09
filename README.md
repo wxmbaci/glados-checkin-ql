@@ -1,5 +1,11 @@
 # glados-checkin-ql
+### 适配青龙面板
+### 自动化签到
 
+**脚本地址** 
+```text
+ql repo https://github.com/wxmbaci/glados-checkin-ql.git "glados_checkin"
+```
 ---
 ### 变量声明
 
@@ -15,4 +21,4 @@
 
 ---
 参考
-https://github.com/Zy143L/wskey
+[https://github.com/Zy143L/wskey](https://github.com/Zy143L/wskey)
