@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*
 '''
+cron: 37 8/8 * * *
 new Env('glados checkin');
 '''
 import socket  # 用于端口检测
